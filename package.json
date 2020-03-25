@@ -1,5 +1,5 @@
 {
-  "name": "my-package",
+  "name": "package",
   "version": "1.0.0",
   "description": "node server & custom service",
   "main": "index.js",
