@@ -1,0 +1,19 @@
+{
+  "name": "my-package",
+  "version": "1.0.0",
+  "description": "node server & custom service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LundukS/node-server.git"
+  },
+  "author": "Lunduk Chhiring Sherpa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LundukS/node-server/issues"
+  },
+  "homepage": "https://github.com/LundukS/node-server#readme"
+}
